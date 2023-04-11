@@ -43,6 +43,9 @@ p {
     max-width: 1300px;
 }
 
+.destination:hover h2 {
+    transform: rotate(0deg);
+}
 
 /*** Header Styling ***/
 .page-header {
